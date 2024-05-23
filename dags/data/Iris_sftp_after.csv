@@ -1,0 +1,4 @@
+iris_id,iris_sepal_length,iris_sepal_width,iris_petal_length,iris_petal_width,iris_variety
+62,5.9,3.0,4.2,1.5,Iris-versicolor
+67,5.6,3.0,4.5,1.5,Iris-versicolor
+85,5.4,3.0,4.5,1.5,Iris-versicolor
